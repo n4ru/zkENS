@@ -1,0 +1,22 @@
+{
+  "name": "zkens",
+  "version": "1.0.0",
+  "description": "zk Proof of Identity using ENS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n4ru/zkENS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n4ru/zkENS/issues"
+  },
+  "homepage": "https://github.com/n4ru/zkENS#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3"
+  }
+}
